@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\bin\Debug\net6.0\HealthProblems.core.deps.json
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\bin\Debug\net6.0\HealthProblems.core.dll
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\bin\Debug\net6.0\ref\HealthProblems.core.dll
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\bin\Debug\net6.0\HealthProblems.core.pdb
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\obj\Debug\net6.0\HealthProblems.core.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\obj\Debug\net6.0\HealthProblems.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\obj\Debug\net6.0\HealthProblems.core.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\obj\Debug\net6.0\HealthProblems.core.AssemblyInfo.cs
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\obj\Debug\net6.0\HealthProblems.core.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\obj\Debug\net6.0\HealthProblems.core.dll
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\obj\Debug\net6.0\ref\HealthProblems.core.dll
+C:\Users\opilane\source\repos\HealthProblems\HealthProblems.core\obj\Debug\net6.0\HealthProblems.core.pdb
